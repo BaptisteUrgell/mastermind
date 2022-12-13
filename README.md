@@ -10,3 +10,11 @@
 
 This Project includes an **Artificial Inteligence** player, based on **Min Max algorithm**.
 
+# Start a game
+
+- <a href="https://ocaml.org/docs/up-and-running">Install ocaml</a>, version recommended 
+
+```bash
+# Run projet.html script and follow the instructions, language: French
+ocaml projet.ml
+```
